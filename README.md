@@ -2,7 +2,7 @@
 
 - Here's my most recent project! [https://todo-clone.onrender.com/](https://todo-clone.onrender.com/)
 
-- All of my projects are available at [ericsapsford.com](ericsapsford.com)
+- All of my projects and resume are available at [ericsapsford.com](ericsapsford.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
