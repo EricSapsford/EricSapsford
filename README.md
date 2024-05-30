@@ -1,4 +1,4 @@
-<h3 align="center">A passionate full stack software engineer with a focus on backend developer and ttrpgs when schedules align</h3>
+<h3 align="center">A passionate full stack software engineer with a focus on backend developer and ttrpgs</h3>
 
 - Here's my most recent project! [https://todo-clone.onrender.com/](https://todo-clone.onrender.com/)
 
