@@ -1,6 +1,6 @@
-<h3 align="center">A passionate full stack software engineer with a focus on backend developer and ttrpgs</h3>
+<h3 align="center">They really just letting anybody on here these days huh?</h3>
 
-- Here's my most recent project! [https://todo-clone.onrender.com/](https://todo-clone.onrender.com/)
+- Here's a link [https://todo-clone.onrender.com/](https://todo-clone.onrender.com/)
 
 - All of my projects and resume are available at [ericsapsford.com](ericsapsford.com)
 
